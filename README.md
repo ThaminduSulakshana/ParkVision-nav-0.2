@@ -1,6 +1,4 @@
-
 # ParkVision Nav 0.2
-
 A navigation system designed to optimize navigation within parking lots. AR-based navigation system tailored for parking slot navigation using Unity and ARFoundation. It integrates NavMesh for precise pathfinding, supports dynamic target selection for parking slots, and visualizes navigation paths in real time with a LineRenderer. Designed for intuitive user interaction, the system features a TMP_Dropdown for selecting available slots and toggling path visibility, enhancing the user experience in navigating through parking lots efficiently.
 ---
 
@@ -9,15 +7,6 @@ A navigation system designed to optimize navigation within parking lots. AR-base
 - **Real-Time Pathfinding:** Efficient navigation without the need for cloud anchors or ARPointCloud data.
 - **World Re-centering:** Automatically adjusts the navigation experience for seamless transitions in the parking environment.
 - **Path Visibility Toggle:** Users can easily toggle the visibility of the suggested navigation path for a clutter-free view.
-
----
-
-## 🛠️ Technologies Used
-- **Frontend:** Flutter
-- **Backend:** Python Flask
-- **Image Processing:** OpenCV, TensorFlow
-- **Navigation Algorithms:** A* Algorithm, Custom Heuristic Planning
-- **3D Environment:** Unreal Engine/Blender (customizable as per your project specifics)
 
 ---
 
