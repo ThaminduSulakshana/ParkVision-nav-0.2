@@ -15,6 +15,20 @@
 			}
 		},
 		{
+			"Name": "P1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.29,
+				"y": 0.00,
+				"z": -34.26
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
 			"Name": "MainEntrance",
 			"FloorNumber": 0,
 			"Position": {
